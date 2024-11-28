@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "Database URL"
+  },
+  {
+    "name": "spring.resource-datasource.username",
+    "type": "java.lang.String",
+    "description": "Resource Database username"
+  },
+  {
+    "name": "spring.resource-datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "Resource Database URL'"
+  },
+  {
+    "name": "spring.resource-datasource.password",
+    "type": "java.lang.String",
+    "description": "Resource Database Password'"
+  },
+  {
+    "name": "spring.resource-datasource.username",
+    "type": "java.lang.String",
+    "description": "Resource Database username"
+  },
+  {
+    "name": "spring.resource-datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "Resource DB Driver class name"
+  },
+  {
+    "name": "server.encryption",
+    "type": "java.lang.String",
+    "description": "프로토콜 암호화 여부"
+  },
+  {
+    "name": "spring.google.login_verify_url",
+    "type": "java.lang.String",
+    "description": "Google Login Verify URL"
+  },
+  {
+    "name": "server.terms.url",
+    "type": "java.lang.String",
+    "description": "A description for 'server.terms.url'"
+  },
+  {
+    "name": "server.terms.url",
+    "type": "java.lang.String",
+    "description": "A description for 'server.terms.url'"
+  }
+]}

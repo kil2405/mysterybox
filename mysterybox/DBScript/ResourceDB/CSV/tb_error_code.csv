@@ -1,0 +1,8 @@
+﻿error_code,text_kr,text_en
+1000,Application Update로 재접속 합니다.,Reconnect due to an application update.
+1001,서버 점검으로 인해 접속할 수 없습니다.,Unable to connect due to server maintenance.
+1002,중복 접속으로 서버 접속 종료 됩니다.,The server connection will be terminated due to duplicate connections.
+1003,세션 만료로 인해 재접속 됩니다.,Reconnect due to session expiration.
+1004,시스템 에러가 발생했습니다. 잠시 후 다시 시도해 주세요.,System error has occurred. Please try again later.
+1005,<color=#FF0000>같은 닉네임이 있습니다.</color>,<color=#FF0000>Have the same nickname.</color>
+1006,<color=#FF0000>1~6 글자 내로 입력해주세요.</color>,<color=#FF0000>Please enter 1~6 letters.</color>

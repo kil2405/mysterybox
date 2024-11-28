@@ -1,0 +1,252 @@
+﻿index,country_id,country_code,id_text_name,flag_image,annotation_name
+0,000,ZZ,2000000,Global_flag,기타
+1,001,AA,2000001,Global_flag,세계
+2,288,GH,2000002,Ghana_flag,가나
+3,266,GA,2000003,Gabon_flag,가봉
+4,328,GY,2000004,Guyana_flag,가이아나
+5,270,GM,2000005,Gambia_flag,감비아
+6,831,GG,2000006,Guernsey_flag,건지섬
+7,312,GP,2000007,Guadeloupe_flag,과들루프
+8,320,GT,2000008,Guatemala_flag,과테말라
+9,316,GU,2000009,Guam_flag,괌
+10,308,GD,2000010,Grenada_flag,그레나다
+11,300,GR,2000011,Greece_flag,그리스
+12,304,GL,2000012,Greenland_flag,그린란드
+13,324,GN,2000013,Guinea_flag,기니
+14,624,GW,2000014,Guinea-Bissau_flag,기니비사우
+15,516,NA,2000015,Namibia_flag,나미비아
+16,520,NR,2000016,Nauru_flag,나우루
+17,566,NG,2000017,Nigeria_flag,나이지리아
+18,10,AQ,2000018,Antarctica_flag,남극
+19,728,SS,2000019,South_Sudan_flag,남수단
+20,710,ZA,2000020,South_Africa_flag,남아프리카 공화국
+21,528,NL,2000021,Netherlands_flag,네덜란드
+22,524,NP,2000022,Nepal_flag,네팔
+23,578,NO,2000023,Norway_flag,노르웨이
+24,574,NF,2000024,Norfolk_Island_flag,노퍽섬
+25,540,NC,2000025,New_Caledonia_flag,누벨칼레도니
+26,554,NZ,2000026,New_Zealand_flag,뉴질랜드
+27,570,NU,2000027,Niue_flag,니우에
+28,562,NE,2000028,Niger_flag,니제르
+29,558,NI,2000029,Nicaragua_flag,니카라과
+30,410,KR,2000030,South_Korea_flag,대한민국
+31,208,DK,2000031,Denmark_flag,덴마크
+32,214,DO,2000032,Dominican_Republic_flag,도미니카 공화국
+33,212,DM,2000033,Dominica_flag,도미니카 연방
+34,276,DE,2000034,Timor-Leste_flag,동티모르
+35,626,TL,2000035,Germany_flag,독일
+36,418,LA,2000036,Laos_flag,라오스
+37,430,LR,2000037,Liberia_flag,라이베리아
+38,428,LV,2000038,Latvia_flag,라트비아
+39,643,RU,2000039,Russia_flag,러시아
+40,422,LB,2000040,Lebanon_flag,레바논
+41,426,LS,2000041,Lesotho_flag,레소토
+42,638,RE,2000042,Reunion_flag,레위니옹
+43,642,RO,2000043,Romania_flag,루마니아
+44,442,LU,2000044,Luxembourg_flag,룩셈부르크
+45,646,RW,2000045,Rwanda_flag,르완다
+46,434,LY,2000046,Libya_flag,리비아
+47,440,LT,2000047,Lithuania_flag,리투아니아
+48,438,LI,2000048,Lichtenstein_flag,리히텐슈타인
+49,450,MG,2000049,Madagascar_flag,마다가스카르
+50,474,MQ,2000050,Martinique_flag,마르티니크
+51,584,MH,2000051,Marshall_Islands_flag,마셜 제도
+52,175,YT,2000052,Mayotte_flag,마요트
+53,446,MO,2000053,Macao_flag,마카오
+54,807,MK,2000054,Malawi_flag,말라위
+55,454,MW,2000055,Malaysia_flag,말레이시아
+56,458,MY,2000056,Mali_flag,말리
+57,466,ML,2000057,Isle_of_Man_flag,맨섬
+58,833,IM,2000058,Mexico_flag,멕시코
+59,484,MX,2000059,Monaco_flag,모나코
+60,492,MC,2000060,Morocco_flag,모로코
+61,504,MA,2000061,Mauritius_flag,모리셔스
+62,480,MU,2000062,Mauritania_flag,모리타니
+63,478,MR,2000063,Mozambique_flag,모잠비크
+64,508,MZ,2000064,Montenegro_flag,몬테네그로
+65,499,ME,2000065,Montserrat_flag,몬트세랫
+66,500,MS,2000066,Moldova_flag,몰도바
+67,498,MD,2000067,Maldives_flag,몰디브
+68,462,MV,2000068,Malta_flag,몰타
+69,470,MT,2000069,Mongolia_flag,몽골
+70,496,MN,2000070,United_States_flag,미국
+71,840,US,2000071,US_Minor_Outlying_Islands_flag,미국령 군소 제도
+72,581,UM,2000072,US_Virgin_Islands_flag,미국령 버진아일랜드
+73,850,VI,2000073,Myanmar_flag,미얀마
+74,104,MM,2000074,Federated_States_of_Micronesia_flag,미크로네시아 연방
+75,583,FM,2000075,Vanuatu_flag,바누아투
+76,548,VU,2000076,Bahrain_flag,바레인
+77,48,BH,2000077,Barbados_flag,바베이도스
+78,52,BB,2000078,Vatican_City_flag,바티칸 시국
+79,336,VA,2000079,Bahamas_flag,바하마
+80,44,BS,2000080,Bangladesh_flag,방글라데시
+81,50,BD,2000081,Bermuda_flag,버뮤다
+82,60,BM,2000082,Benin_flag,베냉
+83,204,BJ,2000083,Venezuela_flag,베네수엘라
+84,862,VE,2000084,Vietnam_flag,베트남
+85,704,VN,2000085,Belgium_flag,벨기에
+86,56,BE,2000086,Belarus_flag,벨라루스
+87,112,BY,2000087,Belize_flag,벨리즈
+88,84,BZ,2000088,Bonaire_Island_flag,보네르섬
+89,535,BQ,2000089,Bosnia_and_Herzegovina_flag,보스니아 헤르체고비나
+90,70,BA,2000090,Botswana_flag,보츠와나
+91,72,BW,2000091,Bolivia_flag,볼리비아
+92,68,BO,2000092,Burundi_flag,부룬디
+93,108,BI,2000093,Burkina_Faso_flag,부르키나파소
+94,854,BF,2000094,Bouvet_Island_flag,부베섬
+95,74,BV,2000095,Bhutan_flag,부탄
+96,64,BT,2000096,Northern_Mariana_Islands_flag,북마리아나 제도
+97,580,MP,2000097,Macedonia_flag,북마케도니아
+98,100,BG,2000098,Bulgaria_flag,불가리아
+99,76,BR,2000099,Brazil_flag,브라질
+100,96,BN,2000100,Brunei_Darussalam_flag,브루나이
+101,882,WS,2000101,Samoa_flag,사모아
+102,682,SA,2000102,Saudi_Arabia_flag,사우디아라비아
+103,239,GS,2000103,South_Georgia_and_the_South_Sandwich_Islands_flag,사우스조지아 사우스샌드위치 제도
+104,674,SM,2000104,San_Marino_flag,산마리노
+105,678,ST,2000105,Sao_Tome_and_Principe_flag,상투메 프린시페
+106,663,MF,2000106,Saint_Martin_flag,생마르탱
+107,652,BL,2000107,Saint_Barthelemy_flag,생바르텔레미
+108,666,PM,2000108,Saint_Pierre_and_Miquelon_flag,생피에르 미클롱
+109,732,EH,2000109,Western_Sahara_flag,서사하라
+110,686,SN,2000110,Senegal_flag,세네갈
+111,688,RS,2000111,Serbia_flag,세르비아
+112,690,SC,2000112,Seychelles_flag,세이셸
+113,662,LC,2000113,Saint_Lucia_flag,세인트루시아
+114,670,VC,2000114,Saint_Vincent_and_the_Grenadines_flag,세인트빈센트 그레나딘
+115,659,KN,2000115,Saint_Kitts_and_Nevis_flag,세인트키츠 네비스
+116,654,SH,2000116,Saint_Helena_flag,세인트헬레나
+117,706,SO,2000117,Somalia_flag,소말리아
+118,90,SB,2000118,Solomon_Islands_flag,솔로몬 제도
+119,729,SD,2000119,Sudan_flag,수단
+120,740,SR,2000120,Suriname_flag,수리남
+121,144,LK,2000121,Sri_Lanka_flag,스리랑카
+122,744,SJ,2000122,Svalbard_and_Jan_Mayen_flag,스발바르 얀마옌 제도
+123,752,SE,2000123,Sweden_flag,스웨덴
+124,756,CH,2000124,Switzerland_flag,스위스
+125,724,ES,2000125,Spain_flag,스페인
+126,703,SK,2000126,Slovakia_flag,슬로바키아
+127,705,SI,2000127,Slovenia_flag,슬로베니아
+128,760,SY,2000128,Syria_flag,시리아
+129,694,SL,2000129,Sierra_Leone_flag,시에라리온
+130,534,SX,2000130,Sint_Maarten_flag,신트마르턴
+131,702,SG,2000131,Singapore_flag,싱가포르
+132,784,AE,2000132,United_Arab_Emirates_flag,아랍에미리트
+133,533,AW,2000133,Aruba_flag,아루바
+134,51,AM,2000134,Armenia_flag,아르메니아
+135,32,AR,2000135,Argentina_flag,아르헨티나
+136,16,AS,2000136,American_Samoa_flag,아메리칸사모아
+137,352,IS,2000137,Iceland_flag,아이슬란드
+138,332,HT,2000138,Haiti_flag,아이티
+139,372,IE,2000139,Ireland_flag,아일랜드
+140,31,AZ,2000140,Azerbaijan_flag,아제르바이잔
+141,4,AF,2000141,Afghanistan_flag,아프가니스탄
+142,20,AD,2000142,Andorra_flag,안도라
+143,8,AL,2000143,Albania_flag,알바니아
+144,12,DZ,2000144,Algeria_flag,알제리
+145,24,AO,2000145,Angola_flag,앙골라
+146,28,AG,2000146,Antigua_and_Barbuda_flag,앤티가 바부다
+147,660,AI,2000147,Anguilla_flag,앵귈라
+148,232,ER,2000148,Eritrea_flag,에리트레아
+149,748,SZ,2000149,Eswatini_flag,에스와티니
+150,233,EE,2000150,Estonia_flag,에스토니아
+151,218,EC,2000151,Ecuador_flag,에콰도르
+152,231,ET,2000152,Ethiopia_flag,에티오피아
+153,222,SV,2000153,El_Salvador_flag,엘살바도르
+154,826,GB,2000154,United_Kingdom_flag,영국
+155,92,VG,2000155,British_Virgin_Islands_flag,영국령 버진아일랜드
+156,86,IO,2000156,British_Indian_Ocean_Territory_flag,영국령 인도양 지역
+157,887,YE,2000157,Yemen_flag,예멘
+158,512,OM,2000158,Oman_flag,오만
+159,36,AU,2000159,Australia_flag,오스트레일리아
+160,40,AT,2000160,Austria_flag,오스트리아
+161,340,HN,2000161,Honduras_flag,온두라스
+162,248,AX,2000162,Aland_Islands_flag,올란드 제도
+163,400,JO,2000163,Wallis_and_Futuna_flag,왈리스 푸투나
+164,800,UG,2000164,Jordan_flag,요르단
+165,858,UY,2000165,Uganda_flag,우간다
+166,860,UZ,2000166,Uruguay_flag,우루과이
+167,804,UA,2000167,Uzbekistan_flag,우즈베키스탄
+168,876,WF,2000168,Ukraine_flag,우크라이나
+169,368,IQ,2000169,Iraq_flag,이라크
+170,364,IR,2000170,Iran_flag,이란
+171,376,IL,2000171,Israel_flag,이스라엘
+172,818,EG,2000172,Egypt_flag,이집트
+173,380,IT,2000173,Italy_flag,이탈리아
+174,356,IN,2000174,India_flag,인도
+175,360,ID,2000175,Indonesia_flag,인도네시아
+176,392,JP,2000176,Japan_flag,일본
+177,388,JM,2000177,Jamaica_flag,자메이카
+178,894,ZM,2000178,Zambia_flag,잠비아
+179,832,JE,2000179,Jersey_flag,저지섬
+180,226,GQ,2000180,Equatorial_Guinea_flag,적도 기니
+181,408,KP,2000181,North_Korea_flag,조선민주주의인민공화국
+182,268,GE,2000182,Georgia_flag,조지아
+183,156,CN,2000183,China_flag,중국
+184,140,CF,2000184,Central_African_Republic_flag,중앙아프리카 공화국
+185,262,DJ,2000185,Taiwan_flag,중화민국
+186,292,GI,2000186,Djibouti_flag,지부티
+187,716,ZW,2000187,Gibraltar_flag,지브롤터
+188,148,TD,2000188,Zimbabwe_flag,짐바브웨
+189,203,CZ,2000189,Chad_flag,차드
+190,152,CL,2000190,Czech_Republic_flag,체코
+191,120,CM,2000191,Chile_flag,칠레
+192,132,CV,2000192,Cameroon_flag,카메룬
+193,398,KZ,2000193,Cabo_Verde_flag,카보베르데
+194,634,QA,2000194,Kazakhstan_flag,카자흐스탄
+195,116,KH,2000195,Qatar_flag,카타르
+196,124,CA,2000196,Cambodia_flag,캄보디아
+197,404,KE,2000197,Canada_flag,캐나다
+198,136,KY,2000198,Kenya_flag,케냐
+199,174,KM,2000199,Cayman_Islands_flag,케이맨 제도
+200,188,CR,2000200,Comoros_flag,코모로
+201,166,CC,2000201,Costa_Rica_flag,코스타리카
+202,384,CI,2000202,Cocos_Islands_flag,코코스 제도
+203,170,CO,2000203,Cote_d_Ivoire_flag,코트디부아르
+204,178,CG,2000204,Colombia_flag,콜롬비아
+205,180,CD,2000205,Congo_flag,콩고 공화국
+206,192,CU,2000206,Democratic_Republic_of_Congo_flag,콩고 민주 공화국
+207,414,KW,2000207,Cuba_flag,쿠바
+208,184,CK,2000208,Kuwait_flag,쿠웨이트
+209,531,CW,2000209,Cook_Islands_flag,쿡 제도
+210,191,HR,2000210,Curacao_flag,퀴라소
+211,162,CX,2000211,Croatia_flag,크로아티아
+212,417,KG,2000212,Christmas_Island_flag,크리스마스섬
+213,296,KI,2000213,Kyrgyzstan_flag,키르기스스탄
+214,196,CY,2000214,Kiribati_flag,키리바시
+215,158,TW,2000215,Cyprus_flag,키프로스
+216,762,TJ,2000216,Tajikistan_flag,타지키스탄
+217,834,TZ,2000217,Tanzania_flag,탄자니아
+218,764,TH,2000218,Thailand_flag,태국
+219,796,TC,2000219,Turks_and_Caicos_Islands_flag,터크스 케이커스 제도
+220,792,TR,2000220,Turkey_flag,튀르키예
+221,768,TG,2000221,Togo_flag,토고
+222,772,TK,2000222,Tokelau_flag,토켈라우
+223,776,TO,2000223,Tonga_flag,통가
+224,795,TM,2000224,Turkmenistan_flag,투르크메니스탄
+225,798,TV,2000225,Tuvalu_flag,투발루
+226,788,TN,2000226,Tunisia_flag,튀니지
+227,780,TT,2000227,Trinidad_and_Tobago_flag,트리니다드 토바고
+228,591,PA,2000228,Panama_flag,파나마
+229,600,PY,2000229,Paraguay_flag,파라과이
+230,586,PK,2000230,Pakistan_flag,파키스탄
+231,598,PG,2000231,Papua_New_Guinea_flag,파푸아뉴기니
+232,585,PW,2000232,Palau_flag,팔라우
+233,275,PS,2000233,Palestine_flag,팔레스타인
+234,234,FO,2000234,Faroe_Islands_flag,페로 제도
+235,604,PE,2000235,Peru_flag,페루
+236,620,PT,2000236,Portugal_flag,포르투갈
+237,238,FK,2000237,Falkland_Islands_flag,포클랜드 제도
+238,616,PL,2000238,Poland_flag,폴란드
+239,630,PR,2000239,Puerto_Rico_flag,푸에르토리코
+240,250,FR,2000240,France_flag,프랑스
+241,254,GF,2000241,French_Guiana_flag,프랑스령 기아나
+242,260,TF,2000242,French_Southern_Territories_flag,프랑스령 남방 및 남극 지역
+243,258,PF,2000243,French_Polynesia_flag,프랑스령 폴리네시아
+244,242,FJ,2000244,Fiji_flag,피지
+245,246,FI,2000245,Finland_flag,핀란드
+246,608,PH,2000246,Philippines_flag,필리핀
+247,612,PN,2000247,Pitcairn_Islands_flag,핏케언 제도
+248,334,HM,2000248,Heard_Island_and_McDonald_Islands_flag,허드 맥도널드 제도
+249,348,HU,2000249,Hungary_flag,헝가리
+250,344,HK,2000250,Hong_Kong_flag,홍콩
